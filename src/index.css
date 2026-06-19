@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(#d8c7ff, #19006c);
+  font-family: "Poppins", sans-serif;
+}
+
+.container .correct {
+  background-color: #dffff2;
+  border-color: #00d397;
+}
+
+.container .wrong {
+  background-color: #ffebeb;
+  border-color: #ff4a4a;
+}

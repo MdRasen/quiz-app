@@ -1,5 +1,11 @@
+import Quiz from "./components/Quiz/Quiz";
+
 const App = () => {
-  return <div>App</div>;
+  return (
+    <>
+      <Quiz />
+    </>
+  );
 };
 
 export default App;
